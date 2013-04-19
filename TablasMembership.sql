@@ -1,4 +1,4 @@
-
+TABLAAAAAAAAAAAAAAS DE MIERDA
 /****** Object:  Table [dbo].[Applications]    Script Date: 05/13/2012 21:59:01 ******/
 SET ANSI_NULLS ON
 GO

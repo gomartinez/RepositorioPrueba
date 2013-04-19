@@ -1,9 +1,14 @@
 TABLAAAAAAAAAAAAAAS DE MIERDA
 siguen siendo unas tablas de mierda
 /****** Object:  Table [dbo].[Applications]    Script Date: 05/13/2012 21:59:01 ******/
-SET ANSI_NULLS ON
-GO
 
+asdf
+adsf
+assdfdf
+asdf
+adsfadSET ANSI_NULLS ON
+GO
+adsf
 SET QUOTED_IDENTIFIER ON
 GO
 
